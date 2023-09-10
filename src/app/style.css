@@ -1,0 +1,135 @@
+/* .signup-bg{
+    background-color: rgb(243, 243, 243);
+    height: 100vh;
+} */
+.navTab{
+    display: inline-block;
+    color: white;
+    margin: 10px;
+
+}
+.navLogin{
+    float: right;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+.navbg{
+    background-color: rgb(120, 42, 209);
+}
+.subHeader{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 0px 2px rgb(243, 243, 243);
+}
+.container-bd{
+    padding: 17px;
+}
+.signUpHeading{
+    margin: 10px;
+}
+.input-field{
+
+    display: block;
+    margin: auto;
+    height: 50px;
+    width: 300px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    outline: 1px solid  rgb(120, 42, 209);
+
+}
+.signUp-btn{
+
+    background-color: rgb(120, 42, 209);
+    color: white;
+    border: 0;
+    width: 100px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+
+}
+.form-bg{
+    background-color: white;
+    width: 450px;
+    margin: auto;
+}
+.add-item{
+    background-color: white;
+    width: 950px;
+    box-shadow: 2px 2px 5px 5px rgb(230, 230, 230);
+    border-radius: 5px;
+}
+.publish-btn{
+    background-color: rgb(120, 42, 209);
+    color: white;
+    border: 0;
+    width: 170px;
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+    margin-left: 50px;
+
+}
+.input-title{
+    display: block;
+    margin-left: 50px;
+    height: 40px;
+    width: 860px;
+    border: 0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    outline: 1px solid  rgb(180, 180, 180);
+    box-shadow: 2px 0px 6px 0px rgb(230, 230, 230);
+
+}
+.input-title:focus{
+    outline: 1px solid  rgb(135, 75, 204);
+    box-shadow: 2px 0px 6px 0px rgb(127, 56, 207);
+}
+.dicription-field{
+    display: block;
+    margin-left: 50px;
+    border: 0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    outline: 1px solid  rgb(180, 180, 180);
+    box-shadow: 2px 0px 6px 0px rgb(230, 230, 230);
+
+}
+.dicription-field:focus{
+    outline: 1px solid  rgb(135, 75, 204);
+    box-shadow: 2px 0px 6px 0px rgb(127, 56, 207);
+}
+.blog-list{
+    background-color: white;
+    width: 950px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.blogs-fonts{
+    font-size: small;
+    color: grey;
+}
+.btn-list{
+    margin: 5px;
+    cursor: pointer;
+    color: rgb(120, 42, 209);
+}
+.user-details{
+    font-size: small;
+}
+.subHeading{
+    text-decoration: none;
+    color: rgb(127, 56, 207);
+}
+.see-more{
+    text-decoration: none;
+    color: rgb(120, 42, 209);
+}
